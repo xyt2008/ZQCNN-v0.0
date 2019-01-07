@@ -12,8 +12,20 @@ MKL下载地址:[此处下载](https://pan.baidu.com/s/1d75IIf6fgTZ5oeumd0vtTw)
 
 训练SSD: https://github.com/zuoqing1988/train-ssd
 
+训练MTCNN用于人头检测：https://github.com/zuoqing1988/train-mtcnn-head
+
 
 # 更新日志
+
+**2019-01-04日更新：庆祝达到400星，发放快速人脸模型**
+
+[mxnet格式](https://pan.baidu.com/s/1pOvAaXncbarNfD0G-4BwlQ)
+
+[zqcnn格式](https://pan.baidu.com/s/18FLOduY4SoHjXHBCXWQ5LQ)
+
+v3版本还不够好，后面还将出v4版本，大概就是下面这个图的意思
+
+![MTCNN-v4示意图](https://github.com/zuoqing1988/ZQCNN/blob/master/mtcnn%E7%A4%BA%E6%84%8F%E5%9B%BE.jpg)
 
 **2018-12-25日更新:不开源的106点landmark**
 
